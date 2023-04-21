@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "0.png",
+	"frame": {"x":0,"y":0,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "1.png",
+	"frame": {"x":0,"y":25,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":0,"y":50,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":0,"y":75,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":0,"y":100,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":0,"y":125,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":0,"y":150,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":0,"y":175,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":0,"y":200,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+},
+{
+	"filename": "9.png",
+	"frame": {"x":0,"y":225,"w":16,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":25},
+	"sourceSize": {"w":16,"h":25}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jpp_Font3.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":250},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3dc80928bb4bc60c550127050abb1182:81407a35e3c83df41b1e6e0358b9cd17:22d714b26299f5263ea4782d5542c46f$"
+}
+}

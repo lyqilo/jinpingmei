@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "+.png",
+	"frame": {"x":0,"y":0,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+{
+	"filename": "0.png",
+	"frame": {"x":62,"y":0,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+},
+{
+	"filename": "1.png",
+	"frame": {"x":125,"y":0,"w":53,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":78},
+	"sourceSize": {"w":53,"h":78}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":178,"y":0,"w":61,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":78},
+	"sourceSize": {"w":61,"h":78}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":0,"y":78,"w":61,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":78},
+	"sourceSize": {"w":61,"h":78}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":61,"y":78,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":124,"y":78,"w":61,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":78},
+	"sourceSize": {"w":61,"h":78}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":185,"y":78,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":0,"y":156,"w":62,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":78},
+	"sourceSize": {"w":62,"h":78}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":62,"y":156,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+},
+{
+	"filename": "9.png",
+	"frame": {"x":125,"y":156,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jpp_Font1.png",
+	"format": "RGBA8888",
+	"size": {"w":248,"h":234},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e402c74cddaaf8c54c663f12d6c3efe2:4510f69a985d24d7737624786605ca97:dc6b713c8b6f65a9e6796a98fe1c9899$"
+}
+}
