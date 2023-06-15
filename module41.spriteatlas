@@ -94,9 +94,11 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 39ba1a42c148afb45842ef04ce3db7b5, type: 3}
   - {fileID: 21300000, guid: 8c4369624ce5a354daad26ed26ca2e7c, type: 3}
   - {fileID: 21300000, guid: 69a9f08266e31914a881503330ad4829, type: 3}
+  - {fileID: 21300000, guid: 1dc273b2c4b324745bd6d83069cdef75, type: 3}
   - {fileID: 21300000, guid: 2fd67cc230456514d91af066dde64fbd, type: 3}
   - {fileID: 21300000, guid: fd9dff03965258f46b4c815975f60c75, type: 3}
   - {fileID: 21300000, guid: 3389972308577084bb8f8823347ac203, type: 3}
+  - {fileID: 21300000, guid: 6b4dd143f49b4f946baf7d347260ab50, type: 3}
   - {fileID: 21300000, guid: c95fd55306858fc42bbc89d0be0dc40a, type: 3}
   - {fileID: 21300000, guid: becb237359c886544869d911579369f9, type: 3}
   - {fileID: 21300000, guid: be52b49305697854ab688abe80ce68e6, type: 3}
@@ -128,6 +130,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6b537d1820f82394bb3709e9978e44bc, type: 3}
   - {fileID: 21300000, guid: 56d99628b1a9b5b438d1e97f726581ca, type: 3}
   - {fileID: 21300000, guid: 2041de78dc6b96c40babac644c16c39f, type: 3}
+  - {fileID: 21300000, guid: f0fea698477783549ba402a75a1c6375, type: 3}
   - {fileID: 21300000, guid: 52ff680907be86b4686dfd3cc76d51d2, type: 3}
   - {fileID: 21300000, guid: a86b86495183b7c4ba7dfe1e62253312, type: 3}
   - {fileID: 21300000, guid: e82ab849b07d0444eb2af5e4f1f36f2e, type: 3}
@@ -160,6 +163,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 95b35d9e2f6083643bcc08ec44170a39, type: 3}
   - {fileID: 21300000, guid: 327b51feaf6af0847808ebc3ee5c86ad, type: 3}
   - {fileID: 21300000, guid: d60b038f1184a7b4eb363949d491425f, type: 3}
+  - {fileID: 21300000, guid: 70a4a4efa83205b45a554bd3e29cb49b, type: 3}
   - {fileID: 21300000, guid: 41b760ff3576e0649928edea5f4bf4c0, type: 3}
   m_PackedSpriteNamesToIndex:
   - hei
@@ -171,9 +175,11 @@ SpriteAtlas:
   - icon_03
   - btn_0000_xz
   - panjinlian-04
+  - jpm_icon_2
   - icon_09
   - btn-wq
   - btn-h-fh
+  - jpm_icon_4
   - bangzhu
   - yazhu_di-_3
   - head-k
@@ -205,6 +211,7 @@ SpriteAtlas:
   - head-k (2)
   - guize_1
   - btn-lvg
+  - jpm_icon_3
   - icon_01
   - panjinlian
   - icon_08
@@ -237,6 +244,7 @@ SpriteAtlas:
   - win
   - big win_1
   - jinbi
+  - jpm_icon_5
   - btn-bz
   m_RenderDataMap: {}
   m_Tag: module41
