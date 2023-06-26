@@ -102,6 +102,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c95fd55306858fc42bbc89d0be0dc40a, type: 3}
   - {fileID: 21300000, guid: becb237359c886544869d911579369f9, type: 3}
   - {fileID: 21300000, guid: be52b49305697854ab688abe80ce68e6, type: 3}
+  - {fileID: 21300000, guid: e1409ab382f453f41ba82e5ab4c3fd5d, type: 3}
   - {fileID: 21300000, guid: 8af7d9d3126a09a42bc0ad7bc9935005, type: 3}
   - {fileID: 21300000, guid: c0da3dd3ff6641a4d8fb94bf403876f4, type: 3}
   - {fileID: 21300000, guid: 7e22bae332783fa49b7659682c58688d, type: 3}
@@ -183,6 +184,7 @@ SpriteAtlas:
   - bangzhu
   - yazhu_di-_3
   - head-k
+  - gold
   - jian
   - "\u91D1\u74F6\u6885\u6548\u679C\u56FE07"
   - btn-100
