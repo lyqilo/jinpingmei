@@ -102,7 +102,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c95fd55306858fc42bbc89d0be0dc40a, type: 3}
   - {fileID: 21300000, guid: becb237359c886544869d911579369f9, type: 3}
   - {fileID: 21300000, guid: be52b49305697854ab688abe80ce68e6, type: 3}
-  - {fileID: 21300000, guid: e1409ab382f453f41ba82e5ab4c3fd5d, type: 3}
   - {fileID: 21300000, guid: 8af7d9d3126a09a42bc0ad7bc9935005, type: 3}
   - {fileID: 21300000, guid: c0da3dd3ff6641a4d8fb94bf403876f4, type: 3}
   - {fileID: 21300000, guid: 7e22bae332783fa49b7659682c58688d, type: 3}
@@ -130,6 +129,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 4b0726f7876158f49873101c03e92cea, type: 3}
   - {fileID: 21300000, guid: 6b537d1820f82394bb3709e9978e44bc, type: 3}
   - {fileID: 21300000, guid: 56d99628b1a9b5b438d1e97f726581ca, type: 3}
+  - {fileID: 21300000, guid: 2041de78dc6b96c40babac644c16c39f, type: 3}
   - {fileID: 21300000, guid: f0fea698477783549ba402a75a1c6375, type: 3}
   - {fileID: 21300000, guid: 52ff680907be86b4686dfd3cc76d51d2, type: 3}
   - {fileID: 21300000, guid: a86b86495183b7c4ba7dfe1e62253312, type: 3}
@@ -160,7 +160,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 224c16ad09883384288f19f3d7f70a50, type: 3}
   - {fileID: 21300000, guid: ac8e30cd39e890c44abfa787cf82ed56, type: 3}
   - {fileID: 21300000, guid: 75ad6cfd3e0a1ca49adc4a8902c16d9e, type: 3}
-  - {fileID: 21300000, guid: 18db313e0cd3c064e9b36e87e2bbab05, type: 3}
   - {fileID: 21300000, guid: 95b35d9e2f6083643bcc08ec44170a39, type: 3}
   - {fileID: 21300000, guid: 327b51feaf6af0847808ebc3ee5c86ad, type: 3}
   - {fileID: 21300000, guid: d60b038f1184a7b4eb363949d491425f, type: 3}
@@ -184,7 +183,6 @@ SpriteAtlas:
   - bangzhu
   - yazhu_di-_3
   - head-k
-  - gold
   - jian
   - "\u91D1\u74F6\u6885\u6548\u679C\u56FE07"
   - btn-100
@@ -212,6 +210,7 @@ SpriteAtlas:
   - xiayiye
   - head-k (2)
   - guize_1
+  - btn-lvg
   - jpm_icon_3
   - icon_01
   - panjinlian
@@ -242,7 +241,6 @@ SpriteAtlas:
   - shangyiye
   - deifen
   - btn-lv-jixi
-  - btn-lvg
   - win
   - big win_1
   - jinbi
